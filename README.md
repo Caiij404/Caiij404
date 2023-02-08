@@ -1,13 +1,6 @@
 ### Hi there 👋
 
 
-
-
-- 🔭 I’m currently working on @Qt
-- 🌱 I’m currently learning 如何找对象
-- 🤔 I’m looking for help with how to promote myself
-- 📫 How to reach me: [CSDN/侠義芝士](https://blog.csdn.net/weixin_44797811) **OR** [Github](https://caiij404.github.io/) 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: 努力加油啦
 
 
